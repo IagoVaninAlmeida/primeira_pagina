@@ -1,0 +1,35 @@
+header img{
+    width: 335px; 
+}
+
+header{
+    text-align: center;
+    
+}
+
+main img{
+    
+    width: 250px;
+}
+
+main{
+    text-align: center;
+}
+/*COLOQUEI AS LETRAS NO CENTRO*/
+footer{
+    text-align: center;
+    
+}
+
+footer img{
+        width: 250px;
+}
+/*mudei a cor das letras*/
+h1,h2,h3,h4,li{
+    color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+}
+/*mudei a cor do fundo*/
+body{
+    background-color: rgb(255, 255, 255);
+}
