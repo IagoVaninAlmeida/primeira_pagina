@@ -1,17 +1,16 @@
 header img{
     width: 335px; 
 }
-
+/* texto do header no centro */
 header{
     text-align: center;
     
 }
-
+/* mudei o tamanho da imagem do main */
 main img{
-    
     width: 250px;
 }
-
+/* texto do main no centro */
 main{
     text-align: center;
 }
@@ -20,11 +19,11 @@ footer{
     text-align: center;
     
 }
-
+/* aumentei o tamanho da imagem do footer */
 footer img{
         width: 250px;
 }
-/*mudei a cor das letras*/
+/*mudei a cor e a fonte das letras*/
 h1,h2,h3,h4,li{
     color: rgb(0, 0, 0);
     font-family: 'Courier New', Courier, monospace;
